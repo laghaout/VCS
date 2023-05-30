@@ -1,1 +1,3 @@
 Some modification. Then some more.
+Some modification. Then a different addition from the branch.
+Kept both statements and deleted the merger markers.
