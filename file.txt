@@ -1,5 +1,7 @@
 Edited remotely.
 
+More remote changes.
+
 This is my new file.
 
 And its second line.
