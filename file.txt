@@ -1,4 +1,4 @@
-Locally modified.
+Locally modified AND Remote modification.
 
 This is in the main branch.
 
