@@ -1,6 +1,6 @@
 Edited remotely.
 
-More remote changes.
+Making some changes in the anone branch.
 
 This is my new file.
 
