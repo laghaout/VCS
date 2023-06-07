@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 More changes remotely. 
 
 Locally modified AND Remote modification.
@@ -5,10 +6,14 @@ Locally modified AND Remote modification.
 This is in the main branch.
 
 Some more anone seeds.
+=======
+zaza in the refactoring branch
+>>>>>>> refactor
 
-Edited remotely.
+More refactoring
 
 Locally modified AND Remote modification.
+<<<<<<< HEAD
 
 This is in the main branch.
 
@@ -17,3 +22,14 @@ Some more anone seeds.
 Edited remotely.
 
 Making some changes in the anone branch.
+=======
+
+This is in the main branch.
+
+Some more anone seeds.
+
+Edited remotely.
+
+Making some changes in the anone branch.
+
+>>>>>>> refactor
