@@ -5,3 +5,13 @@ Some more anone seeds.
 Edited remotely.
 
 Making some changes in the anone branch.
+
+This is my new file.
+
+And its second line.
+
+And its third line.
+
+And its fourth line.
+
+And its fifth line.
