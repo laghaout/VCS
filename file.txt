@@ -2,7 +2,7 @@ Clean the whole shebang!
 
 TWM1 main
 
-FFR0 main
+FFR1 main
 
 Now start editing.
 
