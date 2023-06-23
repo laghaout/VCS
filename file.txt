@@ -1,3 +1,9 @@
-Made some changes for the graded exercise.
+Here is some stuff before.
 
-Some change in main.
+Made some changes for the graded exercise.
+Now, I made some changes for the graded exercise.
+
+And then some stuff after.
+
+And yet again.
+
