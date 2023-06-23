@@ -1,1 +1,5 @@
-Made some changes for the graded exercise.
+Here is some stuff before.
+
+Now, I made some changes for the graded exercise.
+
+And then some stuff after.
